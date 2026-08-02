@@ -122,8 +122,6 @@ text-transform:uppercase;
 
 .hero{
 
-height:100vh;
-
 background:
 
 linear-gradient(
@@ -131,18 +129,9 @@ rgba(0,0,0,.35),
 rgba(0,0,0,.45)
 ),
 
-url("images/hero.jpg")
+url("https://images.unsplash.com/photo-1483985988355-763728e1935b")
 
 center/cover;
-
-
-display:flex;
-
-align-items:center;
-
-padding:0 8%;
-
-color:white;
 
 }
 
@@ -385,8 +374,6 @@ line-height:1.7;
 
 .banner{
 
-height:650px;
-
 background:
 
 linear-gradient(
@@ -394,20 +381,9 @@ rgba(0,0,0,.45),
 rgba(0,0,0,.45)
 ),
 
-url("images/collection.jpg")
+url("https://images.unsplash.com/photo-1445205170230-053b83016050")
 
 center/cover;
-
-
-display:flex;
-
-align-items:center;
-
-justify-content:center;
-
-text-align:center;
-
-color:white;
 
 }
 
